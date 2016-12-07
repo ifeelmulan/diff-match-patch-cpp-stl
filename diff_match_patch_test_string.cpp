@@ -21,6 +21,8 @@
  * http://code.google.com/p/google-diff-match-patch/
  */
 
+/* iampeterkr - issue 최적화 완료 */
+
 #include "diff_match_patch.h"
 #include <cstring>
 #include <iomanip>
